@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Adriano, I live in Brazil🇧🇷 and I'm a developer!
 
-At the moment and for more than 6 years, I develop in HTML, Javascript and CSS, but I started programming in C and C++ and I have already learned languages like Java and PHP. Nowadays, I also have skills in ReactJS, React Native, Angular, Next.js and Node.js. I'm always learning...
+At the moment and for more than 10 years, I develop in HTML, Javascript and CSS, but I started programming in C and C++ and I have already learned languages like Java and PHP. Nowadays, I also have skills in ReactJS, React Native, Angular, Next.js and Node.js. I'm always learning...
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adriano-costa-tobias-783104a1)](https://www.linkedin.com/in/adriano-costa-tobias-783104a1)
